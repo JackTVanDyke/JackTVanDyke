@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jack VanDyke's GitHub Stats" src="https://github-readme-stats-jacktvandyke.vercel.app/api?username=JackTVanDyke&theme=graywhite&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jack VanDyke's GitHub Stats" src="https://github-readme-stats-jacktvandyke.vercel.app/api?username=JackTVanDyke&theme=react&show_icons=true&hide_border=true" />
 
 </details>
 
