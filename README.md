@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://jacktvandyke.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.linkedin.com/in/jack-vandyke/" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -49,7 +49,7 @@
 
 </details>
 
-[website]: jacktvandyke.github.io
+[website]: https://jacktvandyke.github.io/
 [linkedin]: https://www.linkedin.com/in/jack-vandyke/
 [vscode]: https://www.youtube.com/watch?v=UTQp6mvhb0Y
 [htmlcssplaylist]: https://www.youtube.com/watch?v=mU6anWqZJcc&t=1811s
