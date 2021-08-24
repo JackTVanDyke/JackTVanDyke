@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact&hide=html)
 
 ## I'm a Cat Lover, Gamer, Weightlifter, and Developer!!
 
@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-jacktvandyke.vercel.app/api?username=JackTVanDyke&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jack VanDyke's GitHub Stats" src="https://github-readme-stats-jacktvandyke.vercel.app/api?username=JackTVanDyke&theme=graywhite&show_icons=true&hide_border=true" />
 
 </details>
 
