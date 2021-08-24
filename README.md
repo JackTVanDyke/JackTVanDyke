@@ -1,5 +1,7 @@
 ### Hi there, I'm Jack! 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact)
+
 ## I'm a Cat Lover, Gamer, Weightlifter, and Developer!!
 
 - 🔭 Check out my YouTube Playlist for learning material: [Learning Camp][playlist]!
