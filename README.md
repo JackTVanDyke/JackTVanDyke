@@ -6,7 +6,7 @@
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
 - 🥅 2021 Goals: Learn everything, improve my lifts, see my family more
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I type so fast from my childhood addiction to RuneScape
 
 ### Connect with me:
 
