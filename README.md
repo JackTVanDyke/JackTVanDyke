@@ -4,7 +4,7 @@
 
 ## I'm a Cat Lover, Gamer, Weightlifter, and Developer!!
 
-- 🔭 Check out my YouTube Playlist for learning material: [Learning Camp][playlist]!
+- 🔭 Check out my YouTube Playlist for full-stack JavaScript learning material (may add python later!): [Learning Camp][playlist]!
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
 - 🥅 2021 Goals: Imrpove my skills, improve my strength, see my family more
