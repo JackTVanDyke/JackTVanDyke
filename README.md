@@ -32,7 +32,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][playlist]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][python]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][python]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][playlist]
 
 <br />
@@ -67,5 +67,5 @@
 [cssplaylist]: https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=65s
 [reactplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
 [playlist]: https://www.youtube.com/playlist?list=PLPzOrLAjFAgIE8l3rf13M_awmH_70chNB
-[python]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
-[flask]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
+[python]: https://www.youtube.com/playlist?list=PLPzOrLAjFAgL3uF9gab22wO8mTvUtyOfo
+
