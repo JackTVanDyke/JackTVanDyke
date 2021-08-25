@@ -66,6 +66,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
 [cssplaylist]: https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=65s
 [reactplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
-[playlist]: https://www.youtube.com/playlist?list=PLdVz9rQdWyZyKswx6zQxPjfivxZMbbMvM
+[playlist]: https://www.youtube.com/playlist?list=PLPzOrLAjFAgIE8l3rf13M_awmH_70chNB
 [python]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
 [flask]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
