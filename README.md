@@ -8,7 +8,7 @@
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
 - 🥅 2021 Goals: Imrpove my skills, improve my strength, see my family more
-- ⚡ Fun fact: I type so fast because of my childhood addiction to RuneScape
+- ⚡ Fun fact: I learned how to type from playing RuneScape as a kid
 
 ### Connect with me:
 
@@ -30,6 +30,9 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][playlist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][playlist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][playlist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][python]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][playlist]
 
 <br />
@@ -64,3 +67,5 @@
 [cssplaylist]: https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=65s
 [reactplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
 [playlist]: https://www.youtube.com/playlist?list=PL6pbsi41KaDD144tdRWKm-6WOufVOgBRl
+[python]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
+[flask]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
