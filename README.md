@@ -4,7 +4,7 @@
 
 ## I'm a Cat Lover, Gamer, Weightlifter, and Developer!!
 
-- 🔭 Check out my YouTube Playlist for full-stack JavaScript learning material (may add python later!): [Learning Camp][playlist]!
+- 🔭 Check out my YouTube Playlist for full-stack JavaScript learning material: [Learning Camp][playlist]!
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
 - 🥅 2021 Goals: Imrpove my skills, improve my strength, see my family more
@@ -66,6 +66,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
 [cssplaylist]: https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=65s
 [reactplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
-[playlist]: https://www.youtube.com/playlist?list=PL6pbsi41KaDD144tdRWKm-6WOufVOgBRl
+[playlist]: https://www.youtube.com/playlist?list=PLdVz9rQdWyZyKswx6zQxPjfivxZMbbMvM
 [python]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
 [flask]: https://www.youtube.com/watch?v=jBzwzrDvZ18&list=WL&index=62&t=37s
