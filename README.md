@@ -43,7 +43,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-  1. 🎉 Commited stuff (waiting for script to work, this is filler)
+1. ❗️ Opened issue [#1](https://github.com/john-smilga/js-comfy-house-furniture-store/issues/1) in [john-smilga/js-comfy-house-furniture-store](https://github.com/john-smilga/js-comfy-house-furniture-store)
   2. 🎉 Commited stuff (waiting for script to work, this is filler)
   3. 🎉 Commited stuff (waiting for script to work, this is filler)
   4. 🎉 Commited stuff (waiting for script to work, this is filler)
