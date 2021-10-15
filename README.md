@@ -2,13 +2,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact&hide=html)
 
-## I'm a Cat Lover, Gamer, Weightlifter, and Developer!!
+## I'm a Cat Lover, Weightlifter, and Developer!!
 
 - 🔭 Check out my YouTube Playlist for full-stack JavaScript learning material: [Learning Camp][playlist]!
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
 - 🥅 2021 Goals: Imrpove my skills, improve my strength, see my family more
-- ⚡ Fun fact: I learned how to type from playing RuneScape as a kid
+- ⚡ Fun fact: I have to use a CPAP machine lol (not very fun, is a fact)
 
 ### Connect with me:
 
