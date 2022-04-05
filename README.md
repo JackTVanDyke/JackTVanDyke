@@ -32,5 +32,10 @@
 
 [website]: https://jacktvandyke.github.io/
 [linkedin]: https://www.linkedin.com/in/jack-vandyke/
-
+[vscode]: https://www.youtube.com/watch?v=UTQp6mvhb0Y
+[htmlcssplaylist]: https://www.youtube.com/watch?v=mU6anWqZJcc&t=1811s
+[jsplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
+[cssplaylist]: https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=65s
+[reactplaylist]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
+[playlist]: https://www.youtube.com/playlist?list=PLPzOrLAjFAgIE8l3rf13M_awmH_70chNB
 
