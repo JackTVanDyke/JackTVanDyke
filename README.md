@@ -30,7 +30,7 @@
 <br />
 
 
-[website]: https://jacktvandyke.github.io/
+[website]: https://jack-vandyke.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jack-vandyke/
 [vscode]: https://www.youtube.com/watch?v=UTQp6mvhb0Y
 [htmlcssplaylist]: https://www.youtube.com/watch?v=mU6anWqZJcc&t=1811s
