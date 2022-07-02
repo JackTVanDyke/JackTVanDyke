@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently overwhelmed learning SO MUCH 🤣
 - 👯 I’m looking to connect with other developers!
-- 🥅 2022 Goals: Improve my skills, improve my strength, improve my cardio
+- 🥅 2022 Goals: Improve my skills, improve my strength, rehab my knee
 - ⚡ Fun fact: I'm a cat person and I have sleep apnea (not v fun)
 
 ### Connect with me:
