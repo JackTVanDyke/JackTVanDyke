@@ -1,14 +1,6 @@
 ### Hi there, I'm Jack! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact&hide=html)
-
-## I'm a Fitness Enthusiast, Gamer, and Developer!!
-
-- 🌱 I’m currently overwhelmed learning SO MUCH 🤣
-- 👯 I’m looking to connect with other developers!
-- 🥅 2022 Goals: Improve my skills, improve my strength, rehab my knee
-- ⚡ Fun fact: I'm a cat person and I have sleep apnea (not v fun)
-
 ### Connect with me:
 
 [<img align="left" alt="https://jacktvandyke.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
