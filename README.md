@@ -1,12 +1,6 @@
 ### Hi there, I'm Jack! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&layout=compact&hide=html)
-### Connect with me:
-
-[<img align="left" alt="https://jacktvandyke.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/jack-vandyke/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
