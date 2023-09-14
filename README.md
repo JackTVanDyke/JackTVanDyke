@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a motivated software development student from Columbus State Community College with a 4.0 GPA,
 6 months of professional training, industry certifications, and projects utilizing relevant program-
