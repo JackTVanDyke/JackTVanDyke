@@ -1,4 +1,4 @@
-### Hi there, I'm Jack! 👋
+### Hi there, I'm Jack! 👋 The languages you see below DOES NOT include private repos or you'd see Python/Jupyter Notebook as well. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&size_weight=0.45&count_weight=0.55&hide_progress=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
