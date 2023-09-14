@@ -3,9 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&size_weight=0.45&count_weight=0.55&hide_progress=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a motivated software development student from Columbus State Community College with a 4.0 GPA,
-6 months of professional training, industry certifications, and projects utilizing relevant program-
-ming languages, frameworks, libraries, and tools. NSF S-STEM IST Scholarship award winner. Look-
-ing to use proven programming skills and technical aptitude to meet business needs.
+6 months of professional training, industry certifications, and projects utilizing relevant programming languages, frameworks, libraries, and tools. NSF S-STEM IST Scholarship award winner. Looking to use proven programming skills and technical aptitude to meet business needs.
 
 I'm interested in data, AI learning, and building useful things. 
 
