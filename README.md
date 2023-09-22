@@ -1,5 +1,5 @@
 # Hi there, I'm Jack! 👋 
-## The language card you see below DOES NOT include code from private repos. 
+### The language card you see below DOES NOT include code from private repos. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTVanDyke&size_weight=0.45&count_weight=0.55&hide_progress=true&hide=makefile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
