@@ -5,7 +5,11 @@
 
 4.0 GPA student from Columbus State Community College with six months of professional training and industry certifications. NSF S-STEM IST Scholarship Award Winner. 
 
-I'm interested in data, machine learning, and building useful things. Reinforcement learning and solving imperfect information games are really cool. 
+I'm interested in data, machine learning, and building useful things. Reinforcement learning and solving imperfect information games are really cool. GPU prices are not really cool. 
 
-Outside of technology, I love competition and athletics and spend a lot of time training for track and field. I aim to be one of the best multi-event athletes in the world. I can run 22.5 MPH, bench 345, and two-hand dunk at 5'10, 190 pounds. 
+Outside of technology, I love competition and athletics and spend a lot of time training for track and field. I aim to be one of the best athletes in the world.
+
+Best Speed: 22.5 MPH
+Best Vertical: 40 Inches
+Best Bench: 345 Pounds 
 
