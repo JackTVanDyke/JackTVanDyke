@@ -10,6 +10,8 @@ I'm interested in data, machine learning, and building useful things. Reinforcem
 Outside of technology, I love competition and athletics and spend a lot of time training for track and field. I aim to be one of the best athletes in the world.
 
 Best Speed: 22.5 MPH
+
 Best Vertical: 40 Inches
+
 Best Bench: 345 Pounds 
 
