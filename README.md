@@ -9,5 +9,8 @@ Student from Columbus State Community College with six months of professional tr
 I'm interested in web development, machine learning, and building useful things. 
 
 Outside of technology, I love competition and athletics and spend a lot of time training for track and field.
-Speed: 22.5 MPH || Vertical: 43 Inches || Bench: 345 Pounds
+
+Speed: 22.6 MPH
+Vertical: 43 Inches
+Bench: 345 Pounds
 
