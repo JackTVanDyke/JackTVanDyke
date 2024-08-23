@@ -6,11 +6,5 @@
 
 Student from Columbus State Community College with six months of professional training and industry certifications. NSF S-STEM IST Scholarship Award Winner. 
 
-I'm interested in web development, machine learning, and building useful things. 
-
-Outside of technology, I love competition and athletics and spend a lot of time training for track and field.
-
-Speed: 22.6 MPH || 
-Vertical: 43 Inches || 
-Bench: 345 Pounds
+I like to press my keyboard. Outside of technology, I love competition and athletics and spend a lot of time training for track and field.
 
